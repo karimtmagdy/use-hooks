@@ -1,4 +1,4 @@
 # use-hooks
 
-#installation
+# installation
 npm i @use-hooks
